@@ -1,0 +1,154 @@
+body	{
+			font-family: 'Schoolbell', cursive;
+			text-align: center;
+			background-color: #f1bc31;
+			background-image: url(images/background.png);
+			background-size: cover;
+			color: #E1EFE6;
+			9B291
+		}	
+	#container { 
+			width: 700px;
+			height:100%;
+			position: inherit;
+			margin: 50px auto;
+
+		 }
+	@media (max-width:; 700px) {
+		 	#container {
+		 		background-color:red;
+		 		width: 600px
+			position: inherit;
+		 	}
+		 }
+	@media (max-width:; 500px) {
+		 	#container {
+		 		background-color:red;
+		 		width: 400px;
+		 	}
+		 }
+		}
+		 }
+	 #banner {
+	 	background-size: cover;
+	 	}
+	
+	 #profile-pic {
+	 	
+	 	border-radius: 50% ;
+	 	border: 5px solid pink;
+	 	}
+		
+	h1	{
+			font-size: 48px;
+			text-shadow: 5px 8px 16px purple;
+			font-family: Chalkduster,fantasy;
+			letter-spacing: 5px;
+			text-transform: uppercase;
+		}
+	#intro button {
+		margin-top: 20px;
+	}
+
+	 .post-it-effect{
+		 background: #ffd739;
+		 width: 300px;
+		 height: 260px;
+		 border-radius: 0.8%;
+		 padding: 20px;
+		 box-shadow: 5px 10px 9px #968080;
+		 margin: 50px auto;
+		 }
+	h2	{ 
+			font-family: 'PT Sans', sans-serif;
+			font-size: 20px; 
+			text-shadow: 1.9px 1.7px 1px #db75c5;
+			padding-bottom: 1px;
+		}	
+	.btn {
+			background-color: #dc8098;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			font-weight: bolder;
+			border-radius: 5px;
+			box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+		}
+
+	#yellow-background-match	{ 
+			color: #fbd74a; 
+			font-size: 18px;
+			text-decoration: none;
+			transition: 0.5s;
+			padding-bottom: 40px;
+		}
+	#yellow-background-match:hover {
+			color:#0e9c8e;
+		}
+	h3 {
+			
+			color: #940a37;
+		}
+	#coolkid-pic {
+		border-radius: 60%;
+		border:5px solid pink;
+	}
+	#what-to-know p	{
+		margin-bottom: 0.1px;
+	}
+h3, h4, h5, h6 {
+			font-size: 20px;
+			font-family: 'PT Sans', sans-serif;
+			color: #db75c5; 
+		}
+	#monster-pic {
+	 	border-radius: 60% ;
+	 	border: 5px solid pink;
+	 	}
+	 #activity p{
+	 	margin-bottom: 5px;
+	 }
+	p {
+			color: grey;
+			margin-bottom: 8px;
+		}
+		
+	ul {
+			list-style: none;
+			padding: 5px;
+			color: grey;
+		}
+	a { 
+			color: grey; 
+			font-size: 18px;
+			text-decoration: none;
+			transition: 0.5s;
+			padding-bottom: 40px;
+		}
+
+	.fa-3x:hover {
+			color: #0e9c8e;
+		}
+	.fab {
+			font-family: "font Awesome 5 Brands"
+		}
+	.fa-3x {
+			font-size: 50px;
+			padding-bottom: 20px;
+		}
+
+	i {
+			color: #a97f87;
+	}
+	li {
+			display:inline;
+		}
+	ol	{ 
+			color:grey; 
+		}
